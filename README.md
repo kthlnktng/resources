@@ -13,6 +13,8 @@ Resources relevant to Research Computing
 * Duke - https://rc.duke.edu/
 * Stanford - https://srcc.stanford.edu/
 * UF - https://www.rc.ufl.edu/
+* Harvard Business School - https://training.rcs.hbs.org/ & https://grid.rcs.hbs.org/
+* Harvard Faculty of Arts & Sciences - https://www.rc.fas.harvard.edu/
 
 ### GitHub Repos for other RC departments
 
@@ -22,3 +24,5 @@ Resources relevant to Research Computing
 * Stanford - https://github.com/stanford-rc
 * UC Merced - https://github.com/ucmerced/merced-cluster/wiki/Getting-Help-With-Research-Computing
 * West Virginia University - https://github.com/WVUHPC
+* Harvard Business School - https://github.com/hbs-rcs
+* Harvard Faculty of Arts & Sciences - https://github.com/fasrc
